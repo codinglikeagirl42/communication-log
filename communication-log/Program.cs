@@ -5,8 +5,9 @@ namespace communication_log
     class Program
     {
         static void Main(string[] args)
+
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("It's a beautiful day in the Neighborhood");
         }
     }
 }
